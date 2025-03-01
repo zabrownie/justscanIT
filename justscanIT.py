@@ -1,7 +1,6 @@
 import subprocess
 import os
 
-# Define report directory
 REPORT_DIR = "/home/blackhat/tools/scan_reports"
 os.makedirs(REPORT_DIR, exist_ok=True)
 
